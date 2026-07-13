@@ -29,8 +29,8 @@ I have a background in Textile Engineering and research, with experience in data
 - Financial Dashboard
 
 ### Power BI
-- Retail Dashboard
-- Supply Chain Dashboard
+- Beverage Sales Performance
+- HR Analytics and Employee Insights
 - Textile KPI Dashboard
 
 
