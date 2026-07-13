@@ -21,7 +21,7 @@ I have a background in Textile Engineering and research, with experience in data
 ### SQL
 - Movie-Database Analysis
 - Sales-Analysis
-- Mavenmovie-Analysis
+
 
 ### Excel
 - Executive Dashboard
