@@ -14,4 +14,7 @@ Analyze a small movie dataset to demonstrate SQL querying and business analysis 
 - WHERE
 - GROUP BY
 - ORDER BY
+## Tools Used
 
+- MySQL
+- SQL Workbench
