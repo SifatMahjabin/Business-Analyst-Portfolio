@@ -1,6 +1,9 @@
 
 ## Project Overview
-Analyze sales transactions to identify trends, profitability, and customer purchasing behavior.
+This project analyzes sales transaction data using SQL to uncover business insights related to customers, products, sales performance, and regional trends. The analysis demonstrates how SQL can be used to answer business questions and support data-driven decision-making.
+
+## Dataset
+The project uses three relational tables: CUSTOMERS, Products, Sales
 
 ## Objectives
 
