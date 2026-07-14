@@ -55,14 +55,7 @@ The analysis answers the following business questions:
 - Brand-wise Clustered Bar Chart
 - Area-wise Doughnut Chart
 - Date-wise Delivered Amount Trend
-## Dashboard Features
 
-- Interactive Territory Slicer
-- Interactive Category Slicer
-- Interactive Area Slicer
-- Dynamic Pivot Tables
-- Interactive Charts
-- Easy-to-understand business reports
 ## Business Insights
 
 - Identified top-performing territories based on delivered sales.
