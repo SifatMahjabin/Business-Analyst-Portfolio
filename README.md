@@ -32,7 +32,7 @@ I have a background in Textile Engineering and research, with experience in data
 ### Power BI
 - Beverage Sales Performance
 - HR Analytics and Employee Insights
-- Textile KPI Dashboard
+- Sales Perfoemance Dashboard
 
 
 ## Contact
