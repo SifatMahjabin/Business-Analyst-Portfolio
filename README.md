@@ -20,13 +20,14 @@ I have a background in Textile Engineering and research, with experience in data
 
 ### SQL
 - Movie-Database Analysis
-- Sales-Analysis
+- Sales-Analysis query
 
 
 ### Excel
-- Executive Dashboard
-- HR Dashboard
-- Financial Dashboard
+- Dashboards
+- Power Pivot
+- Power Query
+- Pivot Table
 
 ### Power BI
 - Beverage Sales Performance
