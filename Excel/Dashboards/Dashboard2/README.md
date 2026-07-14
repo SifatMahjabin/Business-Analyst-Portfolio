@@ -1,4 +1,4 @@
-# 🚗 Nigerian Car Market Dashboard (Excel)
+#  Nigerian Car Market Dashboard (Excel)
 
 ## Project Overview
 
