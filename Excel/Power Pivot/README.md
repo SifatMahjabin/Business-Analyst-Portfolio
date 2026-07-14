@@ -1,4 +1,4 @@
-# ⚡ Sales Data Modeling with Excel Power Pivot
+# Sales Data Modeling with Excel Power Pivot
 
 ## Project Overview
 
