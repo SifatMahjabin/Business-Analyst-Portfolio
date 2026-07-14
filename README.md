@@ -37,5 +37,5 @@ I have a background in Textile Engineering and research, with experience in data
 
 ## Contact
 
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/sifat-mahjabin-2912431ba?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email:mahjabinsifat@gmail.com
